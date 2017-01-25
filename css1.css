@@ -1,0 +1,12 @@
+body{
+		background: url(../img/Virtual2.jpg);
+		background-size: cover;
+		color: purple;
+		font-family: sans-serif;
+		text-align: center;
+
+}
+
+img{
+	height: 15%;
+}
