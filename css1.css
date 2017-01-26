@@ -7,6 +7,35 @@ body{
 
 }
 
-img{
+img && .container{
 	height: 150px;
 }
+
+#photo{
+	width: 300px;
+	height: 275px;
+}
+
+#left{
+	float: middle;
+	display: inline-block;
+	padding: 15px;
+	margin-right: 10%;
+	margin-top: 2%;
+}
+
+#right{
+	float:middle;
+	display:inline-table;
+	margin-left: -5%;
+	margin-top: -9%;
+}
+
+#bottom{
+	float: bottom;
+}
+
+.dropdown:hover .dropdown-menu{
+	display:block;
+}
+
